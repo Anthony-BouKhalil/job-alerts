@@ -1,0 +1,31 @@
+adzuna:
+  country: ca
+  results_per_page: 20
+  pages: 1
+
+searches:
+  - keywords: "Laravel"
+    location: "Ontario"
+  - keywords: "PHP"
+    location: "Ontario"
+  - keywords: "QA automation"
+    location: "Ontario"
+  - keywords: "SDET"
+    location: "Ontario"
+
+skills:
+  - Laravel
+  - PHP
+  - MySQL
+  - Python
+  - AWS
+  - QA automation
+  - SDET
+
+email:
+  subject_prefix: "Daily job alerts"
+
+smtp:
+  host: smtp.example.com
+  port: 587
+  use_ssl: false
