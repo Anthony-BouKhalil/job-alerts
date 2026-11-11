@@ -5,13 +5,13 @@ adzuna:
 
 searches:
   - keywords: "Laravel"
-    location: "Ontario"
+    location: "Toronto"
   - keywords: "PHP"
-    location: "Ontario"
+    location: "Toronto"
   - keywords: "QA automation"
-    location: "Ontario"
+    location: "Toronto"
   - keywords: "SDET"
-    location: "Ontario"
+    location: "Toronto"
 
 skills:
   - Laravel
